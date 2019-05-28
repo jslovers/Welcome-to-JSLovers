@@ -1,15 +1,24 @@
 # JSLovers
 JSLovers is the one of the oldest Javascript Community by the developers and for the developers. It is started from Delhi/NCR and now in Bangalore, Mumbai, Pune , Delhi/NCR and Pune. It is community dedicated to learn from each other , from tech advocates by doing meetups and code-labs. JSLovers is non-profit community.
 
-## Contact Details:
-- Website: JSLovers.com
-- Meetups 
+## Announcements
+We are looking for organizers in Mumbai , Pune , and Jaipur
+
+## Meetups
 - Bangalore
 - Delhi
 - Pune
 - Mumbai
 - Jaipur
+
+## Contact Details:
+- Website: JSLovers.com
+- Meetups 
 - Email : hello@jslovers.com
+- Instagram
+- Facebook
+- Telegram
+- Twitter
 
 ## Organizers
 - Neha sharma
@@ -36,6 +45,7 @@ JSLovers is the one of the oldest Javascript Community by the developers and for
 - helpshift
 - Socialcops
 - Nagaaro
+- The circle
 
 ### want to sponsor? Email at hello@jslovers.com 
 
