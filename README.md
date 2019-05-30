@@ -5,33 +5,33 @@ JSLovers is one of the oldest Javascript Community by the developers and for the
 For all meetup annpuncements please check your respective Meetup page.
 
 ## Meetups
-- Delhi https://www.meetup.com/jslovers/
+- [Delhi] (https://www.meetup.com/jslovers/)
 - Bangalore 
-- Pune https://www.meetup.com/JSLovers-Pune/
-- Mumbai https://www.meetup.com/JSLovers-Mumbai-Chapter/
+- [Pune] (https://www.meetup.com/JSLovers-Pune/)
+- [Mumbai] (https://www.meetup.com/JSLovers-Mumbai-Chapter/)
 
 
 ## Contact Details:
-- (http://www.JSLovers.com) 
+- http://www.JSLovers.com
 - Email : hello@jslovers.com
-- Instagram [https://www.instagram.com/jslovers/]
-- Facebook [https://www.facebook.com/javascriptlovers/]
-- Telegram
-- Twitter [https://twitter.com/jslovers_del]
+- [Instagram] (https://www.instagram.com/jslovers/)
+- [Facebook] (https://www.facebook.com/javascriptlovers/)
+- [Telegram]
+- [Twitter[ (https://twitter.com/jslovers_del)
 
 
 ## :pushpin: How to Submit a Talk?
-- Please create an issue by adding prefix (talk-) or is it is code-lab add prefx (codelab-)
+- Please create an issue by adding prefix *(talk-)* or is it is code-lab add prefx *(codelab-)*
 - Please mention - your name, profile (linkdin, twitter).
 - Please metion talk name, description, pre-requists, code-lab/talk duration.
 
 
-## :heart: Sponors 
+## :heart: Sponsor
 - Google
 - Microsoft
 - OYO
 - Expedia
-- LLB
+- LBB
 - OLX
 - Gatsbyjs
 - Egghead.io
@@ -40,6 +40,11 @@ For all meetup annpuncements please check your respective Meetup page.
 - Socialcops
 - Nagaaro
 - The circle
+- IOMedia Ticketmaster
+- One Internet
+- EXL 
+- Nativescript
+
 
 ### :moneybag: want to sponsor? Email at hello@jslovers.com 
 
@@ -49,8 +54,11 @@ For all meetup annpuncements please check your respective Meetup page.
 - Nasir
 - Melvin
 - Priyanka
-- Manvi
 - Naman
+- Sakshi
+- Rahul Rana
 
 ## Organizers
 Jaswant Singh Sandhu and Neha sharma are the organizer of the JSLovers.
+
+If you are looking to have JSLovers in your company, create an issue with prefix (jslovers-chapter-).
