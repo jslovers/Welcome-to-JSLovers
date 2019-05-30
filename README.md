@@ -12,12 +12,12 @@ For all meetup annpuncements please check your respective Meetup page.
 
 
 ## Contact Details:
-- http://www.JSLovers.com
-- Email : hello@jslovers.com
-- [Instagram] (https://www.instagram.com/jslovers/)
-- [Facebook] (https://www.facebook.com/javascriptlovers/)
-- [Telegram]
-- [Twitter[ (https://twitter.com/jslovers_del)
+- [Official Website](http://www.jslovers.com)
+- [Email : hello@jslovers.com](mailto://hello@jslovers.com)
+- [Instagram](https://www.instagram.com/jslovers/)
+- [Facebook](https://www.facebook.com/javascriptlovers/)
+- [Telegram](https://t.me/joinchat/CDmwiFKn_y6QZQx5ZaJHoQ)
+- [Twitter](https://twitter.com/jslovers_del)
 
 
 ## :pushpin: How to Submit a Talk?
@@ -26,7 +26,7 @@ For all meetup annpuncements please check your respective Meetup page.
 - Please metion talk name, description, pre-requists, code-lab/talk duration.
 
 
-## :heart: Sponsor
+## :heart: Sponsors
 - Google
 - Microsoft
 - OYO
@@ -46,9 +46,9 @@ For all meetup annpuncements please check your respective Meetup page.
 - Nativescript
 
 
-### :moneybag: want to sponsor? Email at hello@jslovers.com 
+### :moneybag: Want to sponsor? Email at hello@jslovers.com 
 
-## :clap: Volunteers
+## :clap: Volunteers List
 - Ashok
 - Amandeep
 - Nasir
@@ -59,6 +59,7 @@ For all meetup annpuncements please check your respective Meetup page.
 - Rahul Rana
 
 ## Organizers
-Jaswant Singh Sandhu and Neha sharma are the organizer of the JSLovers.
+
+**[Jaswant Singh Sandhu](https://www.linkedin.com/in/jaswant-sandhu/)** and **[Neha sharma](https://www.linkedin.com/in/nehha/)** are the organizer of the JSLovers.
 
 If you are looking to have JSLovers in your company, create an issue with prefix (jslovers-chapter-).
