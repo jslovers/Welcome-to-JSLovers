@@ -49,14 +49,14 @@ For all meetup annpuncements please check your respective Meetup page.
 ### :moneybag: want to sponsor? Email at hello@jslovers.com 
 
 ## :clap: Volunteers
-- Ashok
-- Amandeep
-- Nasir
-- Melvin
-- Priyanka
+- [Ashok Dey](https://www.linkedin.com/in/ashokdey/)
+- [Amandeep Signh](https://twitter.com/learn_n_share)
+- [Nasir Hussain](https://www.linkedin.com/in/nasir-husain/)
+- [Melvin Davis](https://www.linkedin.com/in/melvinodsa/)
+- [Priyanka Negi](https://www.linkedin.com/in/thejsgirl/)
 - Naman
 - Sakshi
-- Rahul Rana
+- [Rahul Rana](https://www.linkedin.com/in/rahul-rana-b713499a/)
 
 ## Organizers
 Jaswant Singh Sandhu and Neha sharma are the organizer of the JSLovers.
