@@ -1,38 +1,32 @@
 # JSLovers
-JSLovers is the one of the oldest Javascript Community by the developers and for the developers. It is started from Delhi/NCR and now in Bangalore, Mumbai, Pune , Delhi/NCR and Pune. It is community dedicated to learn from each other , from tech advocates by doing meetups and code-labs. JSLovers is non-profit community.
+JSLovers is one of the oldest Javascript Community by the developers and for the developers. It is started from Delhi/NCR and now in Bangalore, Mumbai, Pune too. It is a community dedicated to learn from each other , from tech advocates by doing meetups and code-labs.
 
 ## Announcements
-We are looking for organizers in Mumbai , Pune , and Jaipur
+For all meetup annpuncements please check your respective Meetup page.
 
 ## Meetups
-- Bangalore
-- Delhi
-- Pune
-- Mumbai
-- Jaipur
+- Delhi https://www.meetup.com/jslovers/
+- Bangalore 
+- Pune https://www.meetup.com/JSLovers-Pune/
+- Mumbai https://www.meetup.com/JSLovers-Mumbai-Chapter/
+
 
 ## Contact Details:
-- Website: JSLovers.com
-- Meetups 
+- (http://www.JSLovers.com) 
 - Email : hello@jslovers.com
-- Instagram
-- Facebook
+- Instagram [https://www.instagram.com/jslovers/]
+- Facebook [https://www.facebook.com/javascriptlovers/]
 - Telegram
-- Twitter
+- Twitter [https://twitter.com/jslovers_del]
 
-## Organizers
-- Neha sharma
-- Jaswant Singh Sandhu
 
-## Want to submit a talk please follow the below rules:
-- Create a issue with prefix - talk or code-lab
-- Clearly mention your name and profile (Name of the college/company , twitter/Linkdin , email ID) 
-- Start with the topic
-- mention target audience
-- Pre-requists
-- agenda/summary
+## :pushpin: How to Submit a Talk?
+- Please create an issue by adding prefix (talk-) or is it is code-lab add prefx (codelab-)
+- Please mention - your name, profile (linkdin, twitter).
+- Please metion talk name, description, pre-requists, code-lab/talk duration.
 
-## Sponors 
+
+## :heart: Sponors 
 - Google
 - Microsoft
 - OYO
@@ -47,9 +41,9 @@ We are looking for organizers in Mumbai , Pune , and Jaipur
 - Nagaaro
 - The circle
 
-### want to sponsor? Email at hello@jslovers.com 
+### :moneybag: want to sponsor? Email at hello@jslovers.com 
 
-## Volunteers
+## :clap: Volunteers
 - Ashok
 - Amandeep
 - Nasir
@@ -57,3 +51,6 @@ We are looking for organizers in Mumbai , Pune , and Jaipur
 - Priyanka
 - Manvi
 - Naman
+
+## Organizers
+Jaswant Singh Sandhu and Neha sharma are the organizer of the JSLovers.
