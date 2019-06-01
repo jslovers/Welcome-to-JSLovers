@@ -5,10 +5,10 @@ JSLovers is one of the oldest Javascript Community by the developers and for the
 For all meetup annpuncements please check your respective Meetup page.
 
 ## Meetups
-- [Delhi] (https://www.meetup.com/jslovers/)
-- [Bangalore] (https://www.meetup.com/jschannel-Bengaluru/)
-- [Pune] (https://www.meetup.com/JSLovers-Pune/)
-- [Mumbai] (https://www.meetup.com/JSLovers-Mumbai-Chapter/)
+- [Delhi](https://www.meetup.com/jslovers/)
+- [Bangalore](https://www.meetup.com/jschannel-Bengaluru/)
+- [Pune](https://www.meetup.com/JSLovers-Pune/)
+- [Mumbai](https://www.meetup.com/JSLovers-Mumbai-Chapter/)
 
 
 ## Contact Details:
