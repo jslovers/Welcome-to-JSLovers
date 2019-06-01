@@ -1,10 +1,13 @@
 # JSLovers
 JSLovers is one of the oldest Javascript Community by the developers and for the developers. It is started from Delhi/NCR and now in Bangalore, Mumbai, Pune too. It is a community dedicated to learn from each other , from tech advocates by doing meetups and code-labs.
 
-## Announcements
-For all meetup annpuncements please check your respective Meetup page.
+## Meetup Announcements
+For all meetup annpuncements please check your's city respective Meetup page.
 
-## Meetups
+## Job Announcements
+For Jobs , code support, networking with fellow developers please join the [Telegram](https://t.me/joinchat/CDmwiFKn_y6QZQx5ZaJHoQ) group.
+
+## Meetups Pages
 - [Delhi](https://www.meetup.com/jslovers/)
 - [Bangalore](https://www.meetup.com/jschannel-Bengaluru/)
 - [Pune](https://www.meetup.com/JSLovers-Pune/)
@@ -27,6 +30,8 @@ For all meetup annpuncements please check your respective Meetup page.
 
 
 ## :heart: Sponsors
+JSLovers is a non-profit community by the developers and for the developers. This community won't be possible without the support of the awesome sponors from coworking spaces to companies to the tutorials and e-books sites. Thanks a lot to everyone.
+
 - Google
 - Microsoft
 - OYO, Gurgaon
@@ -45,9 +50,13 @@ For all meetup annpuncements please check your respective Meetup page.
 - EXL , Noida
 - Nativescript
 - Daffodil , Gurgaon
+- Eva - GraphQL e-book giveaway
 
 
-### :moneybag: Want to sponsor? Email at hello@jslovers.com 
+### :moneybag: Want to sponsor? 
+To sponsor JSLovers please drop an email at hello@jslovers.com  with subject **Want to sponsor**
+
+If you are looking to have JSLovers in your company, create an issue with prefix (jslovers-chapter-).
 
 ## :clap: Volunteers List
 - Ashok
@@ -58,9 +67,10 @@ For all meetup annpuncements please check your respective Meetup page.
 - Naman
 - Sakshi
 - Rahul Rana
+- Ekaspreet
 
 ## Organizers
 
 **[Jaswant Singh Sandhu](https://www.linkedin.com/in/jaswant-sandhu/)** and **[Neha sharma](https://www.linkedin.com/in/nehha/)** are the organizer of the JSLovers.
 
-If you are looking to have JSLovers in your company, create an issue with prefix (jslovers-chapter-).
+
