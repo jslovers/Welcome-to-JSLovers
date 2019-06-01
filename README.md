@@ -6,7 +6,7 @@ For all meetup annpuncements please check your respective Meetup page.
 
 ## Meetups
 - [Delhi] (https://www.meetup.com/jslovers/)
-- Bangalore 
+- [Bangalore] (https://www.meetup.com/jschannel-Bengaluru/)
 - [Pune] (https://www.meetup.com/JSLovers-Pune/)
 - [Mumbai] (https://www.meetup.com/JSLovers-Mumbai-Chapter/)
 
@@ -29,21 +29,22 @@ For all meetup annpuncements please check your respective Meetup page.
 ## :heart: Sponsors
 - Google
 - Microsoft
-- OYO
-- Expedia
-- LBB
-- OLX
+- OYO, Gurgaon
+- Expedia, Gurgaon
+- LBB, New Delhi
+- OLX, Gurgaon
 - Gatsbyjs
 - Egghead.io
 - 91springboard
-- helpshift
-- Socialcops
-- Nagaaro
-- The circle
-- IOMedia Ticketmaster
-- One Internet
-- EXL 
+- Helpshift, Pune
+- Socialcops, New Delhi
+- Nagaaro, Gurgaon
+- The circle, Gurgaon
+- IOMedia Ticketmaster, Gurgaon
+- One Internet, New Delhi
+- EXL , Noida
 - Nativescript
+- Daffodil , Gurgaon
 
 
 ### :moneybag: Want to sponsor? Email at hello@jslovers.com 
