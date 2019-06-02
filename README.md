@@ -58,15 +58,15 @@ To sponsor JSLovers please drop an email at hello@jslovers.com  with subject **W
 
 If you are looking to have JSLovers in your company, create an issue with prefix (jslovers-chapter-).
 
-## :clap: Volunteers List
-- Ashok
-- Amandeep
-- Nasir
-- Melvin
-- Priyanka
+## :clap: Volunteers
+- [Ashok Dey](https://www.linkedin.com/in/ashokdey/)
+- [Amandeep Signh](https://twitter.com/learn_n_share)
+- [Nasir Hussain](https://www.linkedin.com/in/nasir-husain/)
+- [Melvin Davis](https://www.linkedin.com/in/melvinodsa/)
+- [Priyanka Negi](https://www.linkedin.com/in/thejsgirl/)
 - Naman
 - Sakshi
-- Rahul Rana
+- [Rahul Rana](https://www.linkedin.com/in/rahul-rana-b713499a/)
 - Ekaspreet
 
 ## Organizers
