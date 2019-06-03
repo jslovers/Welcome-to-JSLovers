@@ -51,6 +51,7 @@ JSLovers is a non-profit community by the developers and for the developers. Thi
 - Nativescript
 - Daffodil , Gurgaon
 - Eva - GraphQL e-book giveaway
+- mLabs - Delhi/NCR
 
 
 ### :moneybag: Want to sponsor? 
