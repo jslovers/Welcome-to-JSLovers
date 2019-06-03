@@ -25,7 +25,7 @@ For Jobs , code support, networking with fellow developers please join the [Tele
 
 ## :pushpin: How to Submit a Talk?
 - Please create an issue by adding prefix *(talk-)* or is it is code-lab add prefx *(codelab-)*
-- Please mention - your name, profile (linkdin, twitter).
+- Please mention - your name, profile (linkdin, twitter), and the location (Delhi, Bangalore, Pune, Mumbai, Jaipur).
 - Please metion talk name, description, pre-requists, code-lab/talk duration.
 
 
