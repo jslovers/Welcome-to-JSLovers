@@ -71,7 +71,7 @@ If you are looking to have JSLovers in your company, create an issue with prefix
 - Naman
 - Sakshi
 - [Rahul Rana](https://www.linkedin.com/in/rahul-rana-b713499a/)
-- Ekaspreet
+- [Ekaspreet](https://www.linkedin.com/in/ekaspreetsingh/)
 
 ## Organizers
 
