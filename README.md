@@ -52,6 +52,9 @@ JSLovers is a non-profit community by the developers and for the developers. Thi
 - Daffodil , Gurgaon
 - Eva - GraphQL e-book giveaway
 - mLabs - Delhi/NCR
+- RapidoBike - Bangalore
+- Agora.io - Bangalore
+- Tokopedia - Noida
 
 
 ### :moneybag: Want to sponsor? 
