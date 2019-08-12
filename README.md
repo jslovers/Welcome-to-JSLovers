@@ -1,8 +1,8 @@
 # JSLovers
-JSLovers is one of the oldest Javascript Community by the developers and for the developers. It is started from Delhi/NCR and now in Bangalore, Mumbai, Pune too. It is a community dedicated to learn from each other , from tech advocates by doing meetups and code-labs.
+JSLovers is one of the oldest Javascript Community by the developers and for the developers. It was started from Delhi/NCR and  has spread over to Bangalore, Mumbai and Pune too. It is a community dedicated to learn from each other , from tech advocates by doing meetups and code-labs.
 
 ## Meetup Announcements
-For all meetup annpuncements please check your's city respective Meetup page.
+For all meetup announcements please check your city's respective Meetup page.
 
 ## Job Announcements
 For Jobs , code support, networking with fellow developers please join the [Telegram](https://t.me/joinchat/CDmwiFKn_y6QZQx5ZaJHoQ) group.
@@ -26,11 +26,11 @@ For Jobs , code support, networking with fellow developers please join the [Tele
 ## :pushpin: How to Submit a Talk?
 - Please create an issue by adding prefix *(talk-)* or is it is code-lab add prefx *(codelab-)*
 - Please mention - your name, profile (linkdin, twitter), and the location (Delhi, Bangalore, Pune, Mumbai, Jaipur).
-- Please metion talk name, description, pre-requists, code-lab/talk duration.
+- Please mention talk name, description, pre-requists, code-lab/talk duration.
 
 
 ## :heart: Sponsors
-JSLovers is a non-profit community by the developers and for the developers. This community won't be possible without the support of the awesome sponors from coworking spaces to companies to the tutorials and e-books sites. Thanks a lot to everyone.
+JSLovers is a non-profit community run by the developers for the developers. This community won't be possible without the support of the awesome sponsors from coworking spaces to companies to the tutorials and e-books sites. Thanks a lot to everyone.
 
 - Google
 - Microsoft
@@ -75,6 +75,6 @@ If you are looking to have JSLovers in your company, create an issue with prefix
 
 ## Organizers
 
-**[Jaswant Singh Sandhu](https://www.linkedin.com/in/jaswant-sandhu/)** and **[Neha sharma](https://www.linkedin.com/in/nehha/)** are the organizer of the JSLovers.
+**[Jaswant Singh Sandhu](https://www.linkedin.com/in/jaswant-sandhu/)** and **[Neha sharma](https://www.linkedin.com/in/nehha/)** are the organizers of the JSLovers.
 
 
