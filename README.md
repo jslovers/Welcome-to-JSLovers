@@ -64,7 +64,7 @@ If you are looking to have JSLovers in your company, create an issue with prefix
 
 ## :clap: Volunteers
 - [Ashok Dey](https://www.linkedin.com/in/ashokdey/)
-- [Amandeep Signh](https://twitter.com/learn_n_share)
+- [Amandeep Singh](https://twitter.com/learn_n_share)
 - [Nasir Hussain](https://www.linkedin.com/in/nasir-husain/)
 - [Melvin Davis](https://www.linkedin.com/in/melvinodsa/)
 - [Priyanka Negi](https://www.linkedin.com/in/thejsgirl/)
