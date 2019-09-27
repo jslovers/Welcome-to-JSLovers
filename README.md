@@ -55,6 +55,8 @@ JSLovers is a non-profit community run by the developers for the developers. Thi
 - RapidoBike - Bangalore
 - Agora.io - Bangalore
 - Tokopedia - Noida
+- InMobi - Bangalore
+- HCL Software - Bangalore
 
 
 ### :moneybag: Want to sponsor? 
@@ -68,7 +70,6 @@ If you are looking to have JSLovers in your company, create an issue with prefix
 - [Nasir Hussain](https://www.linkedin.com/in/nasir-husain/)
 - [Melvin Davis](https://www.linkedin.com/in/melvinodsa/)
 - [Priyanka Negi](https://www.linkedin.com/in/thejsgirl/)
-- Naman
 - Sakshi
 - [Rahul Rana](https://www.linkedin.com/in/rahul-rana-b713499a/)
 - [Ekaspreet](https://www.linkedin.com/in/ekaspreetsingh/)
